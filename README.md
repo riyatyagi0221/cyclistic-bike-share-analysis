@@ -46,13 +46,5 @@ Examples include:
 
 ---
 
-## Recommendations
-1. Promote **weekend membership trials** for casual riders
-2. Offer **discounted annual plans** after repeat casual usage
-3. Use **digital ads and email campaigns** targeting high-frequency casual riders
 
----
 
-## Author
-Your Name  
-LinkedIn: https://linkedin.com/in/yourname
